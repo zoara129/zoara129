@@ -1,12 +1,16 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Zoara%20Andriamaholy&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Fullstack%20Developer%20%20&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Stay%20focus" alt="Typing introduction" />
+</p>
+
+<p align="center">
   <a href="https://komarev.com/ghpvc/?username=zoara129">
     <img src="https://komarev.com/ghpvc/?username=zoara129&label=Profile%20views&color=00FFFF&style=flat-square" alt="zoara129's profile views" />
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Banner" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - I’m currently working on ChessMifanampy
@@ -25,7 +29,6 @@
   <a href="https://github.com/zoara129">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zoara129&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="zoara129's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=zoara129&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="zoara129's GitHub Streak" width="49%" />
 </p>
 
 
